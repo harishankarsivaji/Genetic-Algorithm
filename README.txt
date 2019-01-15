@@ -1,3 +1,5 @@
+This is a prototype design of a Genetic Algorithm which uses the design patterns and OOP's concepts.
+
 To compile and run, navigate to the src folder 
 
 How to compile and run my code:
